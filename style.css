@@ -1,0 +1,23 @@
+*{
+
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+
+background-color: azure;
+text-align: justify;
+margin-left: 70px;
+margin-right: 20px;
+margin-top: 20px;
+
+}
+
+#table-top{
+    text-align: center;
+    font-size: 1em;
+    font-style: italic;
+    font-size-adjust: calc();
+
+}
